@@ -1,2 +1,2 @@
 # Algorithms
-Алгоритме на JavaScript
+Алгоритмы на JavaScript
